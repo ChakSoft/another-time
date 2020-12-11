@@ -10,7 +10,7 @@
     "mocha": "^8.2.1"
   },
   "name": "another-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library to create a parallel timeline with delay",
   "main": "lib/index.js",
   "license": "GPL-3.0",
