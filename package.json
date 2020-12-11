@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "name": "@chaksoft/another-time",
+  "version": "1.0.0",
+  "description": "Library to create a parallel timeline with delay",
+  "main": "lib/index.js",
+  "license": "GPL-3.0",
+  "author": {
+    "email": "mchacaton@chaksoft.eu",
+    "name": "Michael Chacaton"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ChakSoft/another-time.git"
+  },
+  "scripts": {
+    "test": "mocha --timeout 50000 tests/timer.spec.js"
+  }
+}
