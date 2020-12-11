@@ -5,13 +5,13 @@ Another time is a little library which generates a fake date timer.
 ## Installation
 
 ```shell
-$ npm install @chaksoft/another-time
+$ npm install another-time
 ```
 
 ## Usage
 
 ```javascript
-const { createTimer } = require('@chaksoft/another-time')
+const { createTimer } = require('another-time')
 
 createTimer().start()
 ```

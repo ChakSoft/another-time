@@ -9,7 +9,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "mocha": "^8.2.1"
   },
-  "name": "@chaksoft/another-time",
+  "name": "another-time",
   "version": "1.0.0",
   "description": "Library to create a parallel timeline with delay",
   "main": "lib/index.js",
